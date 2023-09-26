@@ -1,0 +1,4 @@
+﻿  Task3.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task3\Task3.cpp(8,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task3\Task3.cpp(8,45): warning C4305: инициализация: усечение из "double" в "float"
+  Task3.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task3\x64\Debug\Task3.exe

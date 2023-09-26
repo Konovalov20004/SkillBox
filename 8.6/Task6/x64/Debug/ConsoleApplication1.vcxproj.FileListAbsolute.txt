@@ -1,0 +1,2 @@
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task 6\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task 6\ConsoleApplication1.cpp(13,9): warning C4244: -=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task 6\ConsoleApplication1.cpp(44,2): message : выполняется компиляция ссылки на экземпляр шаблон функции "T ug<float,float>(T,T,T1 *)"
+          with
+          [
+              T=float,
+              T1=float
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task 6\x64\Debug\ConsoleApplication1.exe

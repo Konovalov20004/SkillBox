@@ -1,0 +1,5 @@
+﻿  Task9.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task9\Task9.cpp(22,10): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task9\Task9.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task9\Task9.cpp(25,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Task9.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\8.6\Task9\x64\Debug\Task9.exe
