@@ -1,0 +1,4 @@
+﻿  Task3.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\11.6\Task3\Task3.cpp(72): warning C4715: good: значение возвращается не при всех путях выполнения
+  Task3.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\11.6\Task3\x64\Debug\Task3.exe

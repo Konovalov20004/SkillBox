@@ -1,0 +1,4 @@
+﻿cl : командная строка  warning D9002: пропуск неизвестного параметра "/ASCII"
+  Task2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+  Task2.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\11.6\Task2\x64\Debug\Task2.exe
