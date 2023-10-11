@@ -1,0 +1,7 @@
+﻿  Task2.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\13.6\Task2\Task2.cpp(32,16): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  Task2.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\13.6\Task2\x64\Debug\Task2.exe

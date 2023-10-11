@@ -1,0 +1,19 @@
+﻿  Task2.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(30,9): warning C4244: return: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(42,9): warning C4244: return: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(64,9): warning C4244: return: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(72,9): warning C4244: return: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(75,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,45): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,50): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,55): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,71): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,77): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,83): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,89): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\Task2.cpp(77,95): warning C4305: инициализация: усечение из "double" в "float"
+  Task2.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\12.5\Task2\x64\Debug\Task2.exe
