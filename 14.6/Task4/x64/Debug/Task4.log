@@ -1,0 +1,5 @@
+﻿  Task4.cpp
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\14.6\Task4\Task4.cpp(6,25): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\14.6\Task4\Task4.cpp(6,55): warning C4042: a: имеет недопустимый класс хранения
+C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\14.6\Task4\Task4.cpp(6,79): warning C4042: b: имеет недопустимый класс хранения
+  Task4.vcxproj -> C:\Users\Sergey\OneDrive\Рабочий стол\C++\Learn\SkillBox\14.6\Task4\x64\Debug\Task4.exe
