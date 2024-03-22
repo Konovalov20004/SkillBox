@@ -1,22 +1,25 @@
 ﻿#include <iostream>
 #include <vector>
+#include <ctime>
 
 using namespace std;
 
 int main() {
-	vector <int> numbers = { -2,1,-3,4,-1,2,1,-5,4 };
-	int max{ numbers[0] + numbers[0] }, pos[2]{}, tmp{};
-	for (int i = 0; i < numbers.size(); i++) {
-		for (int j = i; j < numbers.size(); j++) {
-			tmp += numbers[j];
-			if (tmp > max) {
-				max = tmp;
-				pos[0] = i;
-				pos[1] = j;
-			}
-		} tmp = 0;
-	
+	const int size = 9;
+	int arr[size]{ -2, 1, 3, 4, -1 ,2 ,1 ,-5 ,4 };
+	int sum = 0, maxSum = 0, a = 0, b = 0, bi = 0;
+	for (int i = 0; i < size; i++) {
+		sum += arr[i];
+		if (sum > maxSum) {
+			maxSum = sum;
+			b = i;
+		}
+		if (sum < 0) {
+			sum = 0;
+			a = i + 1;
+		}
+		if (a < b)
+			bi = a;
 	}
-	cout << max << ' ' << pos[0] << ' ' << pos[1] << endl;
-	return 0;
+	cout << bi << "\t" << b;
 }

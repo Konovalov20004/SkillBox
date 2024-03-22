@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergey\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Learn\\SkillBox\\15.6\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBA07A9-6B63-4F27-950A-7440F4400831}|Task2.vcxproj|C:\\Users\\Sergey\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Learn\\SkillBox\\15.6\\Task2\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DBA07A9-6B63-4F27-950A-7440F4400831}|Task2.vcxproj|solutionrelative:Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergey\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Learn\\SkillBox\\15.6\\Task2\\Task2.cpp",
+              "RelativeDocumentMoniker": "Task2.cpp",
+              "ToolTip": "C:\\Users\\Sergey\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Learn\\SkillBox\\15.6\\Task2\\Task2.cpp",
+              "RelativeToolTip": "Task2.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-25T16:31:50.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
