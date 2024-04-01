@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool numer_quest[13] = {};
+bool numer_quest[13] = {true,};
 int marker = 0;
 int score[2]{};
 
@@ -22,12 +22,17 @@ int check_numer() {
             break;
         }
     }
-    marker += tmp;
-    while (numer_quest[marker]) {
-            marker++;
+    while (tmp >= 0) {
+        marker++;
+        if (numer_quest[marker])
+            continue;
+        if (marker == 13) {
+            marker = 0;
+        }
+        tmp--;
     }
     numer_quest[marker] = true;
-    return marker + 1;
+    return marker;
 }
 
 string check_ans() {
