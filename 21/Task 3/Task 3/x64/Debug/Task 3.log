@@ -1,0 +1,3 @@
+﻿  Task 3.cpp
+C:\Users\Sergey\Desktop\C++\Learn\SkillBox\21\Task 3\Task 3.cpp(91,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Task 3.vcxproj -> C:\Users\Sergey\Desktop\C++\Learn\SkillBox\21\Task 3\x64\Debug\Task 3.exe
