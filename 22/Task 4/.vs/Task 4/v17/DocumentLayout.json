@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\22\\Task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8116985E-1886-4363-9F05-D9F0359410BC}|Task 4.vcxproj|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\22\\Task 4\\Task 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8116985E-1886-4363-9F05-D9F0359410BC}|Task 4.vcxproj|solutionrelative:Task 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task 4.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\22\\Task 4\\Task 4.cpp",
+              "RelativeDocumentMoniker": "Task 4.cpp",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\22\\Task 4\\Task 4.cpp",
+              "RelativeToolTip": "Task 4.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T16:48:53.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
