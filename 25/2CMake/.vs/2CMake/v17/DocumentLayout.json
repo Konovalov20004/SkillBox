@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\gpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\gpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\ram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\disk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\disk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "disk.h",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\disk.h",
+              "RelativeDocumentMoniker": "include\\disk.h",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\disk.h",
+              "RelativeToolTip": "include\\disk.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T13:55:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ram.h",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\ram.h",
+              "RelativeDocumentMoniker": "include\\ram.h",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\ram.h",
+              "RelativeToolTip": "include\\ram.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T15:55:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cpu.h",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\cpu.h",
+              "RelativeDocumentMoniker": "include\\cpu.h",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\cpu.h",
+              "RelativeToolTip": "include\\cpu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T13:55:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gpu.h",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\gpu.h",
+              "RelativeDocumentMoniker": "include\\gpu.h",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\include\\gpu.h",
+              "RelativeToolTip": "include\\gpu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T13:18:15.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T13:42:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-18T13:17:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "src\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\2CMake\\src\\CMakeLists.txt",
+              "RelativeToolTip": "src\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-18T13:18:10.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+C:/Users/Sergey/Desktop/C++/Learn/SkillBox/25/1-CMake/out/build/x64-debug/CMakeFiles/1-CMake.dir
+C:/Users/Sergey/Desktop/C++/Learn/SkillBox/25/1-CMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergey/Desktop/C++/Learn/SkillBox/25/1-CMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
