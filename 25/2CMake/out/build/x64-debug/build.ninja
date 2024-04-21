@@ -85,6 +85,46 @@ build src\CMakeFiles\2CMake.dir\main.cpp.obj: CXX_COMPILER__2CMake_unscanned_Deb
   TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
   TARGET_PDB = src\2CMake.pdb
 
+build src\CMakeFiles\2CMake.dir\cpu.cpp.obj: CXX_COMPILER__2CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\src\cpu.cpp || cmake_object_order_depends_target_2CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\include
+  OBJECT_DIR = src\CMakeFiles\2CMake.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\2CMake.dir
+  TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
+  TARGET_PDB = src\2CMake.pdb
+
+build src\CMakeFiles\2CMake.dir\gpu.cpp.obj: CXX_COMPILER__2CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\src\gpu.cpp || cmake_object_order_depends_target_2CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\include
+  OBJECT_DIR = src\CMakeFiles\2CMake.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\2CMake.dir
+  TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
+  TARGET_PDB = src\2CMake.pdb
+
+build src\CMakeFiles\2CMake.dir\ram.cpp.obj: CXX_COMPILER__2CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\src\ram.cpp || cmake_object_order_depends_target_2CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\include
+  OBJECT_DIR = src\CMakeFiles\2CMake.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\2CMake.dir
+  TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
+  TARGET_PDB = src\2CMake.pdb
+
+build src\CMakeFiles\2CMake.dir\kbd.cpp.obj: CXX_COMPILER__2CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\src\kbd.cpp || cmake_object_order_depends_target_2CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\include
+  OBJECT_DIR = src\CMakeFiles\2CMake.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\2CMake.dir
+  TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
+  TARGET_PDB = src\2CMake.pdb
+
+build src\CMakeFiles\2CMake.dir\disk.cpp.obj: CXX_COMPILER__2CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\src\disk.cpp || cmake_object_order_depends_target_2CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\2CMake\include
+  OBJECT_DIR = src\CMakeFiles\2CMake.dir
+  OBJECT_FILE_DIR = src\CMakeFiles\2CMake.dir
+  TARGET_COMPILE_PDB = src\CMakeFiles\2CMake.dir\
+  TARGET_PDB = src\2CMake.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 2CMake
@@ -93,7 +133,7 @@ build src\CMakeFiles\2CMake.dir\main.cpp.obj: CXX_COMPILER__2CMake_unscanned_Deb
 #############################################
 # Link the executable src\2CMake.exe
 
-build src\2CMake.exe: CXX_EXECUTABLE_LINKER__2CMake_Debug src\CMakeFiles\2CMake.dir\main.cpp.obj
+build src\2CMake.exe: CXX_EXECUTABLE_LINKER__2CMake_Debug src\CMakeFiles\2CMake.dir\main.cpp.obj src\CMakeFiles\2CMake.dir\cpu.cpp.obj src\CMakeFiles\2CMake.dir\gpu.cpp.obj src\CMakeFiles\2CMake.dir\ram.cpp.obj src\CMakeFiles\2CMake.dir\kbd.cpp.obj src\CMakeFiles\2CMake.dir\disk.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

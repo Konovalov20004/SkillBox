@@ -9,6 +9,7 @@ int main()
 	step beg;
 	step en;
 	while (true) {
+		cout << "Enter command" << endl;
 		cin >> command;
 		if (cin.fail() || cin.peek() != '\n') {
 			cerr << "Error";
@@ -44,8 +45,10 @@ int main()
 			en.a = a;
 			en.b = b;
 			if (en.a.a == beg.a.a && en.a.b == beg.a.b
-				&& en.b.a == beg.b.a && en.b.b == beg.b.b)
+				&& en.b.a == beg.b.a && en.b.b == beg.b.b) {
 				cout << "Surgency done";
+				exit(0);
+			}
 			else
 				cout << "Cut not wired";
 		}

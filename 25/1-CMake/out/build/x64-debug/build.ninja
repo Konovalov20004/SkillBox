@@ -57,6 +57,14 @@ build CMakeFiles\1-CMake.dir\src\1-CMake.cpp.obj: CXX_COMPILER__1-CMake_unscanne
   TARGET_COMPILE_PDB = CMakeFiles\1-CMake.dir\
   TARGET_PDB = 1-CMake.pdb
 
+build CMakeFiles\1-CMake.dir\src\src.cpp.obj: CXX_COMPILER__1-CMake_unscanned_Debug C$:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\1-CMake\src\src.cpp || cmake_object_order_depends_target_1-CMake
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  INCLUDES = -IC:\Users\Sergey\Desktop\C++\Learn\SkillBox\25\1-CMake\include
+  OBJECT_DIR = CMakeFiles\1-CMake.dir
+  OBJECT_FILE_DIR = CMakeFiles\1-CMake.dir\src
+  TARGET_COMPILE_PDB = CMakeFiles\1-CMake.dir\
+  TARGET_PDB = 1-CMake.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 1-CMake
@@ -65,7 +73,7 @@ build CMakeFiles\1-CMake.dir\src\1-CMake.cpp.obj: CXX_COMPILER__1-CMake_unscanne
 #############################################
 # Link the executable 1-CMake.exe
 
-build 1-CMake.exe: CXX_EXECUTABLE_LINKER__1-CMake_Debug CMakeFiles\1-CMake.dir\src\1-CMake.cpp.obj
+build 1-CMake.exe: CXX_EXECUTABLE_LINKER__1-CMake_Debug CMakeFiles\1-CMake.dir\src\1-CMake.cpp.obj CMakeFiles\1-CMake.dir\src\src.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

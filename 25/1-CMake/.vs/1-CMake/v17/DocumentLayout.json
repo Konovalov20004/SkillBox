@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\1-CMake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\src\\src.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\src.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\include\\1-CMake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\1-CMake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "src.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\src\\src.cpp",
+              "RelativeDocumentMoniker": "src\\src.cpp",
+              "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\src\\src.cpp",
+              "RelativeToolTip": "src\\src.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:08:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
@@ -39,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "1-CMake.h",
               "DocumentMoniker": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\include\\1-CMake.h",
               "RelativeDocumentMoniker": "include\\1-CMake.h",
               "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\include\\1-CMake.h",
               "RelativeToolTip": "include\\1-CMake.h",
-              "ViewState": "AQIAAB4AAAAAAAAAAADwvysAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-18T10:35:33.44Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "src\\1-CMake.cpp",
               "ToolTip": "C:\\Users\\Sergey\\Desktop\\C\u002B\u002B\\Learn\\SkillBox\\25\\1-CMake\\src\\1-CMake.cpp",
               "RelativeToolTip": "src\\1-CMake.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwCoAAAAQAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-18T10:33:55.527Z",
               "EditorCaption": ""

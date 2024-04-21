@@ -13,7 +13,7 @@ project ("1-CMake")
 
 set(MY_DIR ${CMAKE_SOURCE_DIR}/include)
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (1-CMake "src/1-CMake.cpp" "${MY_DIR}/1-CMake.h")
+add_executable (1-CMake "src/1-CMake.cpp" "${MY_DIR}/1-CMake.h" "src/src.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET 1-CMake PROPERTY CXX_STANDARD 20)
