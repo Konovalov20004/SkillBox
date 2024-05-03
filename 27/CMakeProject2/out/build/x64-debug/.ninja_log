@@ -1,0 +1,5 @@
+# ninja log v5
+6	104	7364459646660026	build.ninja	243a9c2159acb74e
+244	319	7358360651157022	src/CMakeProject2.exe	8263480850c38ecc
+10	241	7358360076065137	src/CMakeFiles/CMakeProject2.dir/CMakeProject2.cpp.obj	13bb3627048525a0
+8	243	7358360650577433	src/CMakeFiles/CMakeProject2.dir/main.cpp.obj	e9fa03975bee066b

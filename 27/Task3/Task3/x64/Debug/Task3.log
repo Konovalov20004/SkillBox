@@ -1,0 +1,3 @@
+﻿  Task3.cpp
+C:\Users\Sergey\Desktop\C++\Learn\SkillBox\27\Task3\Task3.cpp(34,1): warning C4715: Branch::search_elf: значение возвращается не при всех путях выполнения
+  Task3.vcxproj -> C:\Users\Sergey\Desktop\C++\Learn\SkillBox\27\Task3\x64\Debug\Task3.exe
