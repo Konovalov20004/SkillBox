@@ -1,0 +1,5 @@
+﻿  3.cpp
+C:\Users\Sergey\Desktop\C++\Learn\SkillBox\28\3\3.cpp(36,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sergey\Desktop\C++\Learn\SkillBox\28\3\3.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sergey\Desktop\C++\Learn\SkillBox\28\3\3.cpp(68,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.vcxproj -> C:\Users\Sergey\Desktop\C++\Learn\SkillBox\28\3\x64\Debug\3.exe
