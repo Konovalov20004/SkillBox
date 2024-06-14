@@ -1,0 +1,10 @@
+syntax = "proto2";
+
+message Manufactured
+{
+	required int32 year = 1;
+	required string adress = 2;
+	required string name = 3;
+	optional string line = 4;
+	optional int32 foreign_economics = 5;
+};
