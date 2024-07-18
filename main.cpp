@@ -1,46 +1,96 @@
-#include <QCoreApplication>
-#include <vector>
+#include <QApplication>
+#include <QPainter>
+#include <QSlider>
+#include <QWidget>
+#include <QPaintEvent>
+#include <QLayout>
+#include <QGridLayout>
+#include <QHBoxLayout>
+#include <QGradient>
 #include <iostream>
-#include <unordered_set>
-#include <memory>
-#include <filesystem>
-#include <list>
-#include <string>
+#include <QObject>
 
-void task1() {
+class Widget : public QWidget{
+//Q_OBJECT
+public:
 
-    std::vector<int> a{ 1,2,3,4,5 };
-    for (auto v : a)
-        std::cout << v << " ";
+    Widget(QWidget *parent):QWidget(parent) {
+        slider->setMaximum(100);
+        slider->setSizePolicy(QSizePolicy::Fixed,QSizePolicy::Fixed);
+        slider->setFixedSize(200,20);
+        Grid->addWidget(slider,0,0,Qt::AlignBottom);
+        slider->show();
+        connect(slider, &QSlider::valueChanged, this, &Widget::changeColor);
+        update();
+    };
 
-}
-
-auto task2 {[] (std::vector<int> arr) {
-    std::unordered_set<int> a;
-    for(auto el:arr) {
-        a.insert(el);
+    void paintEvent(QPaintEvent *event){
+        Q_UNUSED(event)
+        // QColor red(255,0,0);
+        // QColor yellow(255,255,0);
+        // QColor green(0,255,0);
+        QPainter circle(this);
+        circle.setPen(QPen(Qt::black, 1, Qt::SolidLine, Qt::FlatCap));
+        circle.setBrush(QBrush(*currentColor));
+        circle.drawEllipse(50,25,150,150);
     }
-    std::vector<int> result;
-    for(auto el:a)
-        result.push_back(el);
-    return std::make_unique<std::vector<int>>(result);
-}};
 
-namespace fs = std::filesystem;
-auto workFile{ [] (fs::path somePath, std::string const  someExtension) {
-    std::list<fs::path> listExtension;
-    for(auto& entry_dir: fs::recursive_directory_iterator(somePath)){
-        if(!entry_dir.path().extension().compare(someExtension))
-            listExtension.emplace_back(entry_dir.path().filename());
+    ~Widget(){};
+
+public slots:
+    void changeColor() {
+        int value = slider->value();
+        std::cout << value << std::endl;
+        if(value < 50){
+            g = 255;
+            r=value*5.1;}
+        if(value == 50)
+            g = r = 255;
+        if(value > 50){
+            r = 255;
+            g=255-(value-50)*5.1;}
+        currentColor->setRgb(r,g,0);
+        update();
     }
-    return listExtension;
-}};
 
-int main()
+private:
+    int r{0};
+    int g{255};
+    QSlider* slider = new QSlider(Qt::Horizontal, this);
+    QGridLayout* Grid = new QGridLayout(this);
+    QColor* currentColor = new QColor();
+};
+
+// Widget::Widget(QWidget *parent):QWidget(parent) {
+//     slider->setMaximum(99);
+//     slider->setSizePolicy(QSizePolicy::Fixed,QSizePolicy::Fixed);
+//     slider->setFixedSize(200,20);
+//     Grid->addWidget(slider,0,0,Qt::AlignBottom);
+//     slider->show();
+//     //connect(slider, &QSlider::valueChanged, this, &Widget::changeColor);
+// }
+
+// void Widget::changeColor() {
+//     std::cout << slider->value() << std::endl;
+//     update();
+// }
+
+
+int main(int argc, char *argv[])
 {
+    QApplication a(argc, argv);
+    Widget* w = new Widget(nullptr);
+    w->setMinimumSize(250,300);
+    w->setMaximumSize(250,300);
 
-    for(auto v:workFile("C:/Users/Sergey/Desktop/C++/Learn/SkillBox/Qt/untitled", ".cpp"))
-        std::cout << v<<std::endl;
+    // QSlider* s = new QSlider;
+    // s->setMaximum(99);
+    // s->setMinimumSize(200,50);
+    // s->setOrientation(Qt::Horizontal);
+    // QGridLayout* layout = new QGridLayout(w);
+    // layout->addWidget(s,0,0,Qt::AlignBottom);
+    // QObject::connect(s, &QSlider::valueChanged, w, &Widget::changeColor);
 
-    return 0;
+    w->show();
+    return a.exec();
 }
